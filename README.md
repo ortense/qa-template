@@ -1,4 +1,4 @@
-# Templeta para testes com node
+# Template para testes com node
 
 Como rodar:
 
